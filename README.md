@@ -3,7 +3,7 @@
 Bienvenido a mi sitio web generado con Markdown y GitHub Pages.
 
 ## Imagen
-![Mi imagen]("C:\Users\Alberto\Desktop\imagen ferrari.jpg")
+![Mi imagen]("C:\Users\Alberto\Desktop\imagen-ferrari.jpg")
 
 ## Tabla
 | Nombre | Edad | Ciudad |
