@@ -3,7 +3,7 @@
 Bienvenido a mi sitio web generado con Markdown y GitHub Pages.
 
 ## Imagen
-![Mi imagen](https://unsplash.com/es/fotos/ferrari-458-italia-rojo-aparcado-cerca-de-un-edificio-gris-Wl6OeSGyOf4)
+![Mi imagen]("C:\Users\Alberto\Desktop\imagen ferrari.jpg")
 
 ## Tabla
 | Nombre | Edad | Ciudad |
